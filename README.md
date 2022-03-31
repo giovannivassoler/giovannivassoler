@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é <strong>{Gabriel Giovanni Vassoler}!</strong>
+## Meu nome é <strong>Gabriel Giovanni Vassoler!</strong>
 
 > Faça uma breve aprensentação sobre você e a sua área.
 
