@@ -3,9 +3,9 @@ Name: Gabriel Vassoler
 <br>
 OS: Zorin OS
 <br>
-Location: seu-pais
+Location: São Bernardo do Campo/SP
 <br>
-Hobbies: seus-hobbies
+Email: gabriel.vassoler@uscsonline.com.br
 <br>
 Projetos: seus-projetos
 <br>
