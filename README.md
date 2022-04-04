@@ -2,9 +2,8 @@
 
 > Faça uma breve aprensentação sobre você e a sua área.
 
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
-
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
+💬 Sou estudante de Ciência da Computação, estudante do 2° semestre, na Universidade São Caetano do Sul. Fiz alguns projetos em aula, exercícios e atividades. 
+Tenho experiência básica em HTML, CSS, Python, C, C#. 
 
 ----
 
